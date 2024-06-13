@@ -1,0 +1,245 @@
+[
+    {
+        "title": "Home",
+        "path" : "/"
+    },
+
+
+    {
+        "title": "About Sansthan",
+        "children": [
+            {
+                "title": "About Us",
+                "path" : "/about"
+            },
+            {
+                "title": "Board Resolutions",
+                "path" : "/resolution"
+            },
+            {
+                "title" : "Ad-Hoc Committee",
+                "path" : "/ad-hoc-committee"
+            }, 
+            {
+                "title" : "Sansthan Regulations",
+                "path" : "/sanathan-regulation"
+            }, 
+       
+            {
+                "title" : "Annual Reports",
+                "path" : "/annualreports"
+            }
+        ]
+    } ,
+
+
+    {
+        "title": "SAI Temple",
+        "children": [
+            {
+                "title": "Daily Programme",
+                "path" : "/dailyprogram"
+            },
+            {
+                "title": "History",
+                "path" : "/history"
+            },
+            {
+                "title" : "Festivals",
+                "path" : "/festival"
+            }, 
+            {
+                "title" : "The Temple",
+                "path" : "/the-temple"
+            }, 
+            {
+                "title" : "How to reach Shirdi",
+                "path" : "/howtoreach"
+            }, 
+            {
+                "title" : "Pooja",
+                "path" : "/pooja"
+            },
+            {
+                "title" : "Place to Visit",
+                "path" : "/placetovisit"
+            }
+        ]
+    },
+
+
+    {
+        "title": "Daily Updates",
+        "children": [
+            {
+                "title": "Appeal",
+                "path" : "/appeal"
+            },
+            {
+                "title": "Notice",
+                "path" : "/notice"
+            },
+            {
+                "title" : "Photo Gallery",
+                "path" : "/gallery"
+            }, 
+            {
+                "title" : "Downloads",
+                "path" : "/"
+            }, 
+            {
+                "title" : "News",
+                "path" : "/"
+            }, 
+            {
+                "title" : "Invitation",
+                "path" : "/"
+            },
+            {
+                "title" : "Recruitment",
+                "path" : "/recruitment"
+            }
+        ]
+    },
+
+
+    {
+        "title": "e-Library",
+        "children": [
+            {
+                "title": "Saicharitra in PDF",
+                "path" : "/saicharita"
+            },
+            {
+                "title": "Aarti Audio",
+                "path" : "/"
+            },
+            {
+                "title" : "Saileela Magazine",
+                "path" : "/saileelamag"
+            }, 
+            {
+                "title" : "Price List",
+                "path" : "/"
+            }, 
+            {
+                "title" : "Video",
+                "path" : "/"
+            }, 
+            {
+                "title" : "Audio",
+                "path" : "/"
+            }
+        ]
+    },
+
+
+    {
+        "title": "Online Services",
+        "children": [
+            {
+                "title": "Accommodation Booking",
+                "path" : "/accomodation"
+            },
+            {
+                "title": "Donation",
+                "path" : "/donation"
+            },
+            {
+                "title" : "Darshan",
+                "path" : "https://online.sai.org.in/#/darshanAvailability"
+            }, 
+            {
+                "title" : "SaiLeela Magazine Subscription",
+                "path" : "https://online.sai.org.in/#/login"
+            }, 
+            {
+                "title" : "Publication",
+                "path" : "https://online.sai.org.in/#/login"
+            }, 
+            {
+                "title" : "Membership",
+                "path" : "https://online.sai.org.in/#/login"
+            },
+            {
+                "title" : "Temple Registration",
+                "path" : "https://sai.org.in/online_services/"
+            },
+            {
+                "title" : "Palkhi Registration",
+                "path" : "https://sai.org.in/online_services/"
+            },
+            {
+                "title" : "Devotee Feedback",
+                "path" : "/"
+            },
+            {
+                "title" : "Vendor Registration",
+                "path" : "https://sai.org.in/online_services/"
+            }
+        ]
+    },
+
+
+    {
+        "title": "Social Activity",
+        "children": [
+            {
+                "title": "Shri Sai Baba Hospital",
+                "path" : "/"
+            },
+            {
+                "title": "Medical Aid",
+                "path" : "/"
+            },
+            {
+                "title" : "Sainath BloodBank",
+                "path" : "/"
+            }, 
+            {
+                "title" : "Shri Sai Jr. and Sr.College",
+                "path" : "/"
+            }
+        ]
+    },
+
+    {
+        "title": "Tenders",
+        "children": [
+            {
+                "title": "Tenders",
+                "path" : "/"
+            },
+            {
+                "title": "Blacklisted Vendors",
+                "path" : "/"
+            }
+        ]
+    },
+
+    {
+        "title": "Contact Us",
+        "children": [
+            {
+                "title": "FAQ",
+                "path" : "/"
+            },
+            {
+                "title": "Feedback",
+                "path" : "/"
+            },
+            {
+                "title" : "RTI",
+                "path" : "/"
+            }, 
+            {
+                "title" : "Emergency Helpline",
+                "path" : "/helplineNo"
+            }
+        ]
+    }
+
+
+
+
+]
